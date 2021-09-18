@@ -1,0 +1,29 @@
+{
+  "name": "homework-12",
+  "version": "1.0.0",
+  "description": "Employee Mgmt System",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kweinerman/mysqlemployeeMGMT.git"
+  },
+  "keywords": [
+    "Employee",
+    "Mgmt",
+    "System"
+  ],
+  "author": "Kurt Weinerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kweinerman/mysqlemployeeMGMT/issues"
+  },
+  "homepage": "https://github.com/kweinerman/mysqlemployeeMGMT#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0"
+  }
+}
